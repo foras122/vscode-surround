@@ -431,16 +431,7 @@
         "mac": "cmd+shift+T",
         "when": "editorHasSelection"
       }
-    ],
-    "menus": {
-      "editor/context": [
-        {
-          "when": "editorHasSelection",
-          "command": "surround.with",
-          "group": "1_modification"
-        }
-      ]
-    }
+    ]
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
