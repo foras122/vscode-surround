@@ -11,9 +11,9 @@
 ```
 <img src="https://raw.githubusercontent.com/yatki/vscode-surround/master/images/logo.png">
 
-<p align="center">
+<align="center">
 A simple yet powerful extension to add wrapper snippets around your code blocks.
-</p>
+</align=>
 
 ## Features
 
@@ -204,7 +204,7 @@ This will save you from working on features that are eventually going to be reje
 
 I designed the logo on [canva.com](https://canva.com) and inspired by one of their free templates.
 
-## 
+##
 
 MIT (c) 2021 Mehmet Yatkı
 
