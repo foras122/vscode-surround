@@ -5,10 +5,12 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/yatki/vscode-surround.svg?style=flat-square)](https://github.com/yatki/vscode-surround)
 [![License](https://img.shields.io/github/license/yatki/vscode-surround.svg?style=flat-square)](https://github.com/yatki/vscode-surround)
 
-<p align="center">
+<align="center">
 <br />
+
+```
 <img src="https://raw.githubusercontent.com/yatki/vscode-surround/master/images/logo.png">
-</p>
+
 <p align="center">
 A simple yet powerful extension to add wrapper snippets around your code blocks.
 </p>
@@ -16,7 +18,7 @@ A simple yet powerful extension to add wrapper snippets around your code blocks.
 ## Features
 
 - Now works on [VSCode for Web](https://code.visualstudio.com/docs/editor/vscode-web) 🚀**New!**
-- Supports **language identifiers** 
+- Supports **language identifiers**
 - Supports **multi** selections
 - Fully **customizable**
 - **Custom** wrapper snippets
@@ -181,10 +183,10 @@ you can add `-` (MINUS) sign as a prefix to the language identifiers (_without_ 
 }
 ```
 
-### IMPORTANT NOTES:
+### IMPORTANT NOTES
 
-1.  All **command names** and **labels** must be unique. If you do not provide a **unique** command name or label, your custom wrapper functions will override existing ones.
-1.  You can redefine all snippets as long as you provide a valid `SnippetString`. [Read More](https://code.visualstudio.com/docs/extensionAPI/vscode-api#SnippetString)
+1. All **command names** and **labels** must be unique. If you do not provide a **unique** command name or label, your custom wrapper functions will override existing ones.
+1. You can redefine all snippets as long as you provide a valid `SnippetString`. [Read More](https://code.visualstudio.com/docs/extensionAPI/vscode-api#SnippetString)
 
 ## Contribution
 
@@ -192,7 +194,7 @@ As always, I'm open to any contribution and would like to hear your feedback.
 
 PS: [Guide for running @vscode/test-web on WSL 2](https://medium.com/javarevisited/using-wsl-2-with-x-server-linux-on-windows-a372263533c3)
 
-### Just an important reminder:
+### Just an important reminder
 
 If you are planning to contribute to **any** open source project,
 before starting development, please **always open an issue** and **make a proposal first**.
@@ -202,7 +204,7 @@ This will save you from working on features that are eventually going to be reje
 
 I designed the logo on [canva.com](https://canva.com) and inspired by one of their free templates.
 
-## LICENCE
+## 
 
 MIT (c) 2021 Mehmet Yatkı
 
